@@ -120,6 +120,11 @@ The interactive dashboard includes:
 - Category-wise Sales Analysis.
 - Top 5 Products by Revenue.
 
+### Dashboard Screenshot
+
+![Sales Performance Dashboard](reports/screenshots/dashboard-overview.png)
+
+
 ### Interactive Filters
 
 Users can filter dashboard results using:
@@ -150,11 +155,11 @@ SQL scripts are available in the `sql/` folder.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Sales-Data-Analysis.git
-cd Sales-Data-Analysis
+git clone https://github.com/saitejaengili/Sales-Data-Analysis-.git
+
+cd Sales-Data-Analysis-
 ```
 
-Replace `saitejaengili` with your GitHub username.
 
 ### 2. Create a Virtual Environment
 
