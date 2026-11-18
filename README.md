@@ -154,7 +154,7 @@ git clone https://github.com/YOUR_USERNAME/Sales-Data-Analysis.git
 cd Sales-Data-Analysis
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `saitejaengili` with your GitHub username.
 
 ### 2. Create a Virtual Environment
 
